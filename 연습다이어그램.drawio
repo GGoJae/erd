@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T11:51:00.989Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="JP9HmXSp9IfCDVSsR-6q" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T11:54:37.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="VOwfc82v2hvU77GmZQqX" version="23.1.2" type="github">
   <diagram name="페이지-1" id="xbyRAk4a0-fUFGMF88MX">
     <mxGraphModel dx="1931" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -838,6 +838,12 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="80" y="310" as="sourcePoint" />
             <mxPoint x="180" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dtms30NT_zAAcAcftLoy-340" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="Dtms30NT_zAAcAcftLoy-168" target="Dtms30NT_zAAcAcftLoy-336">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-280" y="250" as="sourcePoint" />
+            <mxPoint x="-180" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
